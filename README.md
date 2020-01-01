@@ -1,2 +1,2 @@
-# pnb
+# PNB
 Radius Mikrotik
